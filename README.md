@@ -1,4 +1,4 @@
-# Rashan006 Cyber Lab
+5# Rashan006 Cyber Lab
 Learning Ethical Hacking via Termux
-Started: Sep 2026
-Location: Eldoret, KE
+Started: Sep 2025
+
